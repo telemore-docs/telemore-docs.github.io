@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktelemore_docs=self.webpackChunktelemore_docs||[]).push([[583],{6107:(e,r,t)=>{t.r(r),t.d(r,{default:()=>u});t(6540);var s=t(6347),o=t(4848);function u(){return(0,o.jsx)(s.rd,{to:"/intro"})}}}]);
